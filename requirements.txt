@@ -1,0 +1,6 @@
+pygame
+inquirer
+pydub
+ast
+ffprobe
+ffmpeg
